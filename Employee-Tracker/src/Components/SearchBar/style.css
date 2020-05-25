@@ -1,0 +1,12 @@
+.search-container {
+  padding-bottom: 10px;
+  width: 100%;
+}
+
+.search {
+  text-align: center;
+}
+
+.employee-avatar {
+  border-radius: 100px;
+}
